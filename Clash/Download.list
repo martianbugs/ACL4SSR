@@ -25,5 +25,3 @@ URL-REGEX,(.+\.|^)(360|so)\.(cn|com)
 PROCESS-NAME,Weiyun.exe
 #Baidu disk
 PROCESS-NAME,baidunetdisk.exe
-# Xbox
-URL-REGEX,assets\d+\.xboxlive\.(com|cn)
