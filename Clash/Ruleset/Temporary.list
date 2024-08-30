@@ -1,0 +1,3 @@
+# 临时的规则集
+# Wildcard 虚拟信用卡办理网站, 不支持通过代理访问
+DOMAIN-SUFFIX,wildcard.com.cn
