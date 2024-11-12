@@ -4,3 +4,6 @@ DOMAIN-SUFFIX,wildcard.com.cn
 
 # https://github.com/VisActor/VTable 官网
 DOMAIN,visactor.io
+
+# 俄罗斯游戏种子资源下载网站, http://m.new-rutor.org
+DOMAIN,new-rutor.org
