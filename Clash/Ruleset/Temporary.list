@@ -3,4 +3,6 @@
 DOMAIN-SUFFIX,wildcard.com.cn
 
 # https://github.com/VisActor/VTable 官网
-DOMAIN,visactor.io
+DOMAIN-SUFFIX,visactor.io
+
+DOMAIN-SUFFIX,fitgirl-repacks.site
